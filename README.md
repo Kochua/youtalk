@@ -1,5 +1,5 @@
 # youtalk
-The app where you can share everything you want anonymous  
+The app where you can share everything you want anonymous. It can be message or some story/personal roman
 
 
 ## TODO
